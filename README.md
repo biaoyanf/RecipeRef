@@ -10,6 +10,6 @@ This repository contains code and experiment results introduced in the following
 
 - In Finding of ACL 2022
 
-For the data and detailed annotation guideline of the RecipeRef corpus, please refer to [RecipeRef annotation guideline](https://data.mendeley.com/datasets/rcyskfvdv7/1)
+For the data and detailed annotation guideline of the RecipeRef corpus, please refer to [RecipeRef dataset](https://data.mendeley.com/datasets/rcyskfvdv7/1)
 
 Will upload the content soon
