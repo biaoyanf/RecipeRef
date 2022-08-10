@@ -1,4 +1,4 @@
-# RecipeRef
+# RecipeRef: What does it take to bake a cake? The RecipeRef corpus and anaphora resolution in procedural text
 
 ## Introduction 
 
