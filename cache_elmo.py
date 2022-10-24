@@ -12,7 +12,8 @@ import sys
 def build_elmo():
   token_ph = tf.placeholder(tf.string, [None, None])
   len_ph = tf.placeholder(tf.int32, [None])
-  elmo_module = hub.Module("/data/scratch/projects/punim0478/byron/Embedding/elmo/")
+  # elmo_module = hub.Module("/data/scratch/projects/punim0478/byron/Embedding/elmo/")
+  elmo_module = hub.Module("https://tfhub.dev/google/elmo/2")
   lm_embeddings = elmo_module(
       inputs={"tokens": token_ph, "sequence_len": len_ph},
       signature="tokens", as_dict=True)
