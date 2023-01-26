@@ -12,7 +12,7 @@ This repository contains code and experiment results introduced in the following
 
 ## Dataset
 
-- For the data and detailed annotation guideline of the RecipeRef corpus, please refer to [RecipeRef dataset](https://data.mendeley.com/datasets/rcyskfvdv7/1)
+- For the data and detailed annotation guideline of the RecipeRef corpus, please refer to [RecipeRef dataset](https://data.mendeley.com/datasets/rcyskfvdv7/1). We also provided data in jsonlines format in [data](https://github.com/biaoyanf/RecipeRef/tree/main/data) but for the original data, please refer to [RecipeRef dataset](https://data.mendeley.com/datasets/rcyskfvdv7/1).
 
 ## Getting Started 
 - Install python (preference 3) requirement: `pip install -r requirements.txt`
